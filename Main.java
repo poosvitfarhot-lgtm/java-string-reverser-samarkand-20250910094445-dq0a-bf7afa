@@ -1,0 +1,1 @@
+public class Main{public static void main(String[]a){String s="samarkand";System.out.println(new StringBuilder(s).reverse().toString());}}
